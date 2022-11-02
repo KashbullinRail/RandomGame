@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="randomItem">
+        <item>Прыжок</item>
+        <item>Бег на месте</item>
+        <item>Ползать</item>
+        <item>Прокричать</item>
+        <item>Гусиным шагом</item>
+    </string-array>
+    
+</resources>
